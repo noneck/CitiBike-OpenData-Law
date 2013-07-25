@@ -1,0 +1,13 @@
+A Local Law to amend the administrative code of the city of New York, in relation to requiring the compilation of Citi Bike usage data.
+
+Be it enacted by the Council as follows:
+
+Section 1.  Subchapter 3 of chapter one of title 19 of the administrative code of the city of New York is amended by adding a new section 19-189 to read as follows:
+
+§ 19-189 Citi bike usage data.  a. Definitions. For the purposes of this section "citi bike" shall mean New York city's bike share program.   
+
+b. The department shall compile data on each citi bike trip including the duration, the start date and time, the end date and time, the start station, the end station, the bike number, and the membership type, but shall not include personally-identifiable information.  
+
+c. Beginning on January 1, 2014, and quarterly thereafter, the department shall post the citi bike usage data required by subdivision b of this section on its website in a commonly available non-proprietary format or spreadsheet format that is suitable for analysis. The department shall also simultaneously provide the council with a report on such citi bike usage data aggregated by month, quarter, and year as such data is available and disaggregated by council district and community district as applicable.
+
+§2. This local law shall take effect ninety days after its enactment into law.
