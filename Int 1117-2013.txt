@@ -11,3 +11,5 @@ b. The department shall compile data on each citi bike trip including the durati
 c. Beginning on January 1, 2014, and quarterly thereafter, the department shall post the citi bike usage data required by subdivision b of this section on its website in a commonly available non-proprietary format or spreadsheet format that is suitable for analysis. The department shall also simultaneously provide the council with a report on such citi bike usage data aggregated by month, quarter, and year as such data is available and disaggregated by council district and community district as applicable.
 
 §2. This local law shall take effect ninety days after its enactment into law.
+
+(Test Edit)
