@@ -7,5 +7,5 @@ You can track this law on the New York City Council Legistar system at < http://
 
 This repository is designed to take the initial text as posted on 24 July 2013 and make this bill the best open data bike share law possible.
 
-In the wiki, you will find links to other bike share open data systems, outlines of the data they provide, and examples of other open data bike share laws.
+In the wiki < https://github.com/noneck/CitiBike-OpenData-Law/wiki >, you will find links to other bike share open data systems, outlines of the data they provide, and examples of other open data bike share laws.
 
