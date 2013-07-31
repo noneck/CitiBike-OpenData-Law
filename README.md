@@ -9,3 +9,4 @@ This repository is designed to take the initial text as posted on 24 July 2013 a
 
 In the wiki < https://github.com/noneck/CitiBike-OpenData-Law/wiki >, you will find links to other bike share open data systems, outlines of the data they provide, and examples of other open data bike share laws.
 
+In addtion to this repo, several citibike / bikeNYC hackers partisipate in a Google Group < https://groups.google.com/forum/#!forum/citibike-hackers >.
