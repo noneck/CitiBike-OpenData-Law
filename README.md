@@ -1,3 +1,9 @@
+=====================
+UPDATE THIS REPO HAS MOVED TO https://github.com/BetaNYC/CitiBike-OpenData-Law
+=====================
+
+
+
 CitiBike-OpenData-Law
 =====================
 
